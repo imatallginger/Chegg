@@ -1,0 +1,5 @@
+discord.py
+
+apscheduler
+
+pip install git+https://github.com/ozgur/python-firebase
