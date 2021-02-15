@@ -1,4 +1,4 @@
-# Chegg
+# Chegg 👾
 
 ### Setup and Installation Guide:
 https://www.youtube.com/watch?v=70Xtz6-82ls&t=5s
